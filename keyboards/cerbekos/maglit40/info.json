@@ -91,6 +91,10 @@
         "split": true,
         "split_count": [1,1]
     },
+    "ws2812": {
+        "driver":"vendor",
+        "pin": "GP26"
+    },
     "split": {
         "enabled": true,
         "matrix_pins": {
